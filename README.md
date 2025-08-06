@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
+ <h1 align="center">Hi 👋, I'm Ravi Ranjan Singh</h1>
 <h3 align="center">🚀 Full-Stack Developer | Java Enthusiast | Curious Coder</h3>
 
 <p align="center">
